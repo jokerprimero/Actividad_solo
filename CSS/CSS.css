@@ -7,3 +7,6 @@
     max-width: 400px; /* para que cresca un maximo de pixeles*/
     margin: auto;/* Centrar una imagen de manera automatica*/
 }
+.separar{
+    margin: 5%;
+}
